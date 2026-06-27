@@ -1,0 +1,22 @@
+{
+  "study_tasks": [
+    {
+      "id": 1,
+      "topic": "Data Structures",
+      "mastery": 0.5,
+      "urgency": 0.99,
+      "status": "priority_review"
+    },
+    {
+      "id": 2,
+      "topic": "Linear Algebra",
+      "mastery": 0.8,
+      "urgency": 0.4,
+      "status": "pending"
+    }
+  ],
+  "system_state": {
+    "current_stress": 0.85,
+    "last_updated": "2026-06-20T11:30:00"
+  }
+}

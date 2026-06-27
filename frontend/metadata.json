@@ -1,0 +1,8 @@
+{
+  "name": "Nebula Interface",
+  "description": "An interactive digital Neural Workspace styled with a deep space Nebula particle cosmos, responsive star-trail cursor, glassmorphic biometric hub, an animated floating Study Buddy, and an AI Command Center connected to Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
