@@ -1,11 +1,9 @@
 # 🌌 Nebula Workspace (Neuro-Node)
 
 > An autonomous, biometrically-inspired AI dashboard with real-time 3D state reactions.
-<img width="1912" height="850" alt="image" src="https://github.com/user-attachments/assets/554abe55-051e-47a8-975e-cc340499ab01" />
 
-<img width="1852" height="816" alt="image" src="https://github.com/user-attachments/assets/b8bb5a2e-8f8a-4491-add3-5c7664fa9bdb" />
-
-**(Note: Replace this line with an actual screenshot of your UI!)*
+## 💡 Motivation
+In the current era of "AI agentic" workflows, human-computer interaction often feels disconnected—the AI thinks in the terminal, and we work in the browser. **Nebula Workspace** aims to close that gap by providing a visual, biometrically-reactive interface that translates "hidden" AI state changes into intuitive, spatial, and auditory feedback.
 
 ## 🚀 Overview
 Nebula Workspace is a full-stack, local-first architecture designed to visualize AI logic in real-time. It bridges an autonomous Python AI agent with a high-performance React + Three.js graphical interface. When the AI agent processes data and shifts system states, the 3D UI autonomously reacts without requiring a page refresh.
@@ -19,7 +17,12 @@ This project is built on three completely decoupled pillars:
 ## 💻 Tech Stack
 * **Frontend:** React, TypeScript, Vite, Three.js (@react-three/fiber), TailwindCSS, Framer Motion
 * **Backend:** Python 3, Custom HTTP Server (`http.server`)
-* **Data Layer:** Local JSON state management 
+* **Data Layer:** Local JSON state management
+
+## 📊 Understanding the Interface
+* **Stress Strain Module:** Represents the AI's "cognitive load." As the stress coefficient rises above 0.7, the system triggers color-coded visual alerts and audio cues.
+* **Buddy Unit:** Your 3D robotic companion; it reflects the real-time sync status between the agent's decision-making and your task queue.
+* **Task Matrix:** An active, persistent list that dynamically syncs with the AI's prioritization logic.
 
 ## 🛠️ How to Run Locally
 
