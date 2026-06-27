@@ -1,8 +1,10 @@
 # 🌌 Nebula Workspace (Neuro-Node)
 
 > An autonomous, biometrically-inspired AI dashboard with real-time 3D state reactions.
+<img width="1912" height="850" alt="image" src="https://github.com/user-attachments/assets/554abe55-051e-47a8-975e-cc340499ab01" />
 
-![Nebula Workspace Screenshot](link-to-your-screenshot-here.png) 
+<img width="1852" height="816" alt="image" src="https://github.com/user-attachments/assets/b8bb5a2e-8f8a-4491-add3-5c7664fa9bdb" />
+
 **(Note: Replace this line with an actual screenshot of your UI!)*
 
 ## 🚀 Overview
